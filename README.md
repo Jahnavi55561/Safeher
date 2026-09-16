@@ -6,6 +6,7 @@ A women's safety application with dynamic data management using Vanilla JavaScri
 
 Your SafeHer application has been successfully converted from a static HTML page to a fully dynamic, database-driven application.
 
+https://wondrous-palmier-1b9c47.netlify.app/
 ---
 
 ## 📁 Project Structure
